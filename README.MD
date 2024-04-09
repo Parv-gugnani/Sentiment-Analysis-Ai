@@ -18,7 +18,9 @@ Our project directory is organized as follows:
 
 ## Contributors
 
-    <img src="https://avatars.githubusercontent.com/jeetbiswas23" alt="Jeet Biswas's Avatar" width="50" height="50" style="border-radius: 50%;"><img src="https://avatars.githubusercontent.com/Parv-gugnani" alt="Parv Gugnani's Avatar" width="50" height="50" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/jeetbiswas23" alt="Jeet Biswas's Avatar" width="50" height="50" style="border-radius: 50%;">
+<img src="https://avatars.githubusercontent.com/Parv-gugnani" alt="Parv Gugnani's Avatar" width="50" height="50" style="border-radius: 50%;">
+
 This project was brought to you by Parv and Jeet. We've put in a lot of effort to make it as informative and user-friendly as possible. Feel free to explore the code and let us know if you have any questions or suggestions!
 
 Happy analyzing!
